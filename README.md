@@ -14,7 +14,7 @@ I tried on some GIFs too.
 
 17th layer         |  28th layer
 :-------------------------:|:-------------------------:
-![](movie.gif) |  ![](movie (6).gif)
+![](movie.gif) |  ![](movie_.gif)
 
 
 
