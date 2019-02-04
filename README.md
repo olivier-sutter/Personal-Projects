@@ -12,8 +12,13 @@ Octave 6           |  Octave 12
 
 I tried on some GIFs too.
 
-![](movie.gif)
+17th layer         |  28th layer
+:-------------------------:|:-------------------------:
+![](movie.gif) |  ![](movie (6).gif)
 
-![](https://drive.google.com/open?id=1HW_rbXPnjSx1v8sJxBGXSKEqljKbsJRl)
+
+
+
+
 
 
